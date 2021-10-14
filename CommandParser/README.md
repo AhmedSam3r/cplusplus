@@ -1,3 +1,3 @@
-g++ A1.cpp
-python3 A1Tester.py
-  ./a.out
+g++ A1.cpp<br/>
+python3 A1Tester.py<br/>
+   ./a.out

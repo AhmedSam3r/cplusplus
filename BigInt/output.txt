@@ -1,0 +1,10 @@
+test case #0
+Result = 236913578023691357802369135780
+test case #1
+Result = 1200000000000000000
+test case #2
+Result = -1200000000000000000
+test case #3
+Result = -1088
+test case #4
+Result = 000

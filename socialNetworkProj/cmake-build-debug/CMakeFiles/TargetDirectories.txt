@@ -1,0 +1,3 @@
+C:/Users/AhmedPC/CLionProjects/socialNetworkingProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/AhmedPC/CLionProjects/socialNetworkingProject/cmake-build-debug/CMakeFiles/socialNetworkingProject.dir
+C:/Users/AhmedPC/CLionProjects/socialNetworkingProject/cmake-build-debug/CMakeFiles/edit_cache.dir

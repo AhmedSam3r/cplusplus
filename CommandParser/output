@@ -1,0 +1,895 @@
+Case 1
+INPUT: print sentence with even number of words
+Expected:
+sentence with even number of words
+Generated:
+sentence with even number of words
+
+*PASSED*
+----------------------------------------
+Case 2
+INPUT: print sentence with odd number of seven words
+Expected:
+sentence with odd number of seven words
+Generated:
+sentence with odd number of seven words
+
+*PASSED*
+----------------------------------------
+Case 3
+INPUT: print test     sentence   with various			spaces
+Expected:
+test sentence with various spaces
+Generated:
+test sentence with various spaces
+
+*PASSED*
+----------------------------------------
+Case 4
+INPUT: printt command has  a typo
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 5
+INPUT: print check for numbers 123 45 a23o
+Expected:
+check for numbers 123 45 a23o
+Generated:
+check for numbers 123 45 a23o
+
+*PASSED*
+----------------------------------------
+Case 6
+INPUT: print
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 7
+INPUT: Print this command has a capital letter typo
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 8
+INPUT: PrinT hello world ;
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 9
+INPUT: print 1 2 3
+Expected:
+1 2 3
+Generated:
+1 2 3
+
+*PASSED*
+----------------------------------------
+Case 10
+INPUT: reverse this is a reversed sentence
+Expected:
+sentence reversed a is this
+Generated:
+sentence reversed a is this
+
+*PASSED*
+----------------------------------------
+Case 11
+INPUT: reverse reverse those numbers 1 2 3 4 5
+Expected:
+5 4 3 2 1 numbers those reverse
+Generated:
+5 4 3 2 1 numbers those reverse
+
+*PASSED*
+----------------------------------------
+Case 12
+INPUT: reverse
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 13
+INPUT: reverse will    spaces    have		any effect?
+Expected:
+effect? any have spaces will
+Generated:
+effect? any have spaces will
+
+*PASSED*
+----------------------------------------
+Case 14
+INPUT: reversee this command has a typo
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 15
+INPUT: reverse are you ready for   ?  ! EFFECT @@!41
+Expected:
+@@!41 EFFECT ! ? for ready you are
+Generated:
+@@!41 EFFECT ! ? for ready you are
+
+*PASSED*
+----------------------------------------
+Case 16
+INPUT: reverse 15 25 35 45
+Expected:
+45 35 25 15
+Generated:
+45 35 25 15
+
+*PASSED*
+----------------------------------------
+Case 17
+INPUT: Reverse you loser
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 18
+INPUT: upper captilaize those words to upper case
+Expected:
+CAPTILAIZE THOSE WORDS TO UPPER CASE
+Generated:
+CAPTILAIZE THOSE WORDS TO UPPER CASE
+
+*PASSED*
+----------------------------------------
+Case 19
+INPUT: upper ALREADY IN UPPER CASE
+Expected:
+ALREADY IN UPPER CASE
+Generated:
+ALREADY IN UPPER CASE
+
+*PASSED*
+----------------------------------------
+Case 20
+INPUT: upper
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 21
+INPUT: upper will    spaces    have		any effect?
+Expected:
+WILL SPACES HAVE ANY EFFECT?
+Generated:
+WILL SPACES HAVE ANY EFFECT?
+
+*PASSED*
+----------------------------------------
+Case 22
+INPUT: uppper this command has a typo
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 23
+INPUT: upper 12 45
+Expected:
+12 45
+Generated:
+12 45
+
+*PASSED*
+----------------------------------------
+Case 24
+INPUT: Upper
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 25
+INPUT: Upper tHiS iS mY puRpose
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 26
+INPUT: upper it wasnt me 
+Expected:
+IT WASNT ME
+Generated:
+IT WASNT ME
+
+*PASSED*
+----------------------------------------
+Case 27
+INPUT: shuffle multiple words in one
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 28
+INPUT: shuffle assassination
+Expected:
+saasssnitaoin
+Generated:
+saasssnitaoin
+
+*PASSED*
+----------------------------------------
+Case 29
+INPUT: shuffle SHELL
+Expected:
+HSLEL
+Generated:
+HSLEL
+
+*PASSED*
+----------------------------------------
+Case 30
+INPUT: shuffle JesseJames
+Expected:
+eJssJemase
+Generated:
+eJssJemase
+
+*PASSED*
+----------------------------------------
+Case 31
+INPUT: shuffle 12345
+Expected:
+21435
+Generated:
+21435
+
+*PASSED*
+----------------------------------------
+Case 32
+INPUT: shuffle a   sentence  containing many    various spaces
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 33
+INPUT: shuffle 
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 34
+INPUT: shufffle this command has a typo
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 35
+INPUT: shuffle some symbols @! 
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 36
+INPUT: Shuffle Are you serious ?
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 37
+INPUT: shuffle Wanna see a trick ?
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 38
+INPUT: shuffleStatement shuffle odd number of words
+Expected:
+odd shuffle of number words
+Generated:
+odd shuffle of number words
+
+*PASSED*
+----------------------------------------
+Case 39
+INPUT: shuffleStatement shuffle even number of those words
+Expected:
+even shuffle of number words those
+Generated:
+even shuffle of number words those
+
+*PASSED*
+----------------------------------------
+Case 40
+INPUT: shuffleStatement 123 are integers
+Expected:
+are 123 integers
+Generated:
+are 123 integers
+
+*PASSED*
+----------------------------------------
+Case 41
+INPUT: shuffleStatement 0 is an even number
+Expected:
+is 0 even an number
+Generated:
+is 0 even an number
+
+*PASSED*
+----------------------------------------
+Case 42
+INPUT: shuffleStatementt this command has a typo
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 43
+INPUT: shuffleStatement shuffle those symbols @ ! _
+Expected:
+those shuffle @ symbols _ !
+Generated:
+those shuffle @ symbols _ !
+
+*PASSED*
+----------------------------------------
+Case 44
+INPUT: shuffleStatement shuffle   those  words with      varying spa_ces
+Expected:
+those shuffle with words spa_ces varying
+Generated:
+those shuffle with words spa_ces varying
+
+*PASSED*
+----------------------------------------
+Case 45
+INPUT: shFFleStatement Nooooooo
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 46
+INPUT: delete 3 Life is not fair
+Expected:
+Life is fair
+Generated:
+Life is fair
+
+*PASSED*
+----------------------------------------
+Case 47
+INPUT: delete 1 delete the first index
+Expected:
+the first index
+Generated:
+the first index
+
+*PASSED*
+----------------------------------------
+Case 48
+INPUT: delete 2 Robert Ford killed Jesse James
+Expected:
+Robert killed Jesse James
+Generated:
+Robert killed Jesse James
+
+*PASSED*
+----------------------------------------
+Case 49
+INPUT: delete 3 12 is not an integer
+Expected:
+12 is an integer
+Generated:
+12 is an integer
+
+*PASSED*
+----------------------------------------
+Case 50
+INPUT: delete 0 how would this command delete index 0?
+Expected:
+Incorrect Data Type
+Generated:
+Incorrect Data Type
+
+*PASSED*
+----------------------------------------
+Case 51
+INPUT: delete five words of upcoming words
+Expected:
+Incorrect Data Type
+Generated:
+Incorrect Data Type
+
+*PASSED*
+----------------------------------------
+Case 52
+INPUT: delete 20 index will exceed argc for sure
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 53
+INPUT: delete
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 54
+INPUT: deletee 4 this command has typo
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 55
+INPUT: delete 5 this is my purpose , learn from me !
+Expected:
+this is my purpose learn from me !
+Generated:
+this is my purpose learn from me !
+
+*PASSED*
+----------------------------------------
+Case 56
+INPUT: delete -6 4 2 3 1 4 5 6
+Expected:
+Incorrect Data Type
+Generated:
+Incorrect Data Type
+
+*PASSED*
+----------------------------------------
+Case 57
+INPUT: middle 1 2 3 4 5
+Expected:
+3
+Generated:
+3
+
+*PASSED*
+----------------------------------------
+Case 58
+INPUT: middle a b
+Expected:
+a b
+Generated:
+a b
+
+*PASSED*
+----------------------------------------
+Case 59
+INPUT: middle x y z
+Expected:
+y
+Generated:
+y
+
+*PASSED*
+----------------------------------------
+Case 60
+INPUT: middle I II III IV
+Expected:
+II III
+Generated:
+II III
+
+*PASSED*
+----------------------------------------
+Case 61
+INPUT: middle
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 62
+INPUT: midddle this command has a typo
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 63
+INPUT: middle word1 55 numbers 24
+Expected:
+55 numbers
+Generated:
+55 numbers
+
+*PASSED*
+----------------------------------------
+Case 64
+INPUT: middle onlyoneword
+Expected:
+onlyoneword
+Generated:
+onlyoneword
+
+*PASSED*
+----------------------------------------
+Case 65
+INPUT: Middle 1 2 3
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 66
+INPUT: middle I hate you
+Expected:
+hate
+Generated:
+hate
+
+*PASSED*
+----------------------------------------
+Case 67
+INPUT: add 0 22
+Expected:
+22
+Generated:
+22
+
+*PASSED*
+----------------------------------------
+Case 68
+INPUT: add 27 53
+Expected:
+80
+Generated:
+80
+
+*PASSED*
+----------------------------------------
+Case 69
+INPUT: add 13 27 35 36
+Expected:
+111
+Generated:
+111
+
+*PASSED*
+----------------------------------------
+Case 70
+INPUT: add 100 200 399 1 400
+Expected:
+1100
+Generated:
+1100
+
+*PASSED*
+----------------------------------------
+Case 71
+INPUT: add one two three
+Expected:
+Incorrect Data Type
+Generated:
+Incorrect Data Type
+
+*PASSED*
+----------------------------------------
+Case 72
+INPUT: add one
+Expected:
+Incorrect Data Type
+Generated:
+Incorrect Data Type
+
+*PASSED*
+----------------------------------------
+Case 73
+INPUT: add 12char
+Expected:
+Incorrect Data Type
+Generated:
+Incorrect Data Type
+
+*PASSED*
+----------------------------------------
+Case 74
+INPUT: add
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 75
+INPUT: addd this command has a typo
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 76
+INPUT: add 15 character
+Expected:
+Incorrect Data Type
+Generated:
+Incorrect Data Type
+
+*PASSED*
+----------------------------------------
+Case 77
+INPUT: add -10 10 -20 15
+Expected:
+-5
+Generated:
+-5
+
+*PASSED*
+----------------------------------------
+Case 78
+INPUT: add -5 -10 -20
+Expected:
+-35
+Generated:
+-35
+
+*PASSED*
+----------------------------------------
+Case 79
+INPUT: add 10 -5
+Expected:
+5
+Generated:
+5
+
+*PASSED*
+----------------------------------------
+Case 80
+INPUT: add -5 c 10 5
+Expected:
+Incorrect Data Type
+Generated:
+Incorrect Data Type
+
+*PASSED*
+----------------------------------------
+Case 81
+INPUT: add 0 -6 6 -1555 -445
+Expected:
+-2000
+Generated:
+-2000
+
+*PASSED*
+----------------------------------------
+Case 82
+INPUT: Add 1 2 3
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+Case 83
+INPUT: random 20 1 99 3
+Expected:
+67 68 19 43 70 95 58 74 38 23 77 32 55 83 68 1 16 11 14 94
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 84
+INPUT: random 5 1 10 9
+Expected:
+6 5 6 8 1
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 85
+INPUT: random 27 1 50 2
+Expected:
+41 20 39 26 12 49 15 28 46 28 43 30 50 44 38 50 5 24 18 31 3 23 20 16 18 42 11
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 86
+INPUT: random 9 5 14 4
+Expected:
+12 8 11 13 12 14 12 16 11
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 87
+INPUT: random 1 2 3
+Expected:
+Incorrect Number of Arguments
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 88
+INPUT: random 1 2
+Expected:
+Incorrect Number of Arguments
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 89
+INPUT: random 1
+Expected:
+Incorrect Number of Arguments
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 90
+INPUT: random
+Expected:
+Incorrect Number of Arguments
+Generated:
+Incorrect Number of Arguments
+
+*PASSED*
+----------------------------------------
+Case 91
+INPUT: random a b c d
+Expected:
+Incorrect Data Type
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 92
+INPUT: random words are prohibited here
+Expected:
+Incorrect Data Type
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 93
+INPUT: random 1 2 number 5
+Expected:
+Incorrect Data Type
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 94
+INPUT: random 15 2 80
+Expected:
+Incorrect Number of Arguments
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 95
+INPUT: random -15 3 10 6
+Expected:
+Incorrect Data Type
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 96
+INPUT: random 10 d 5
+Expected:
+Incorrect Number of Arguments
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 97
+INPUT: random 0 1 10 6
+Expected:
+Incorrect Data Type
+Generated:
+Undefined Command
+
+*FAILED*
+----------------------------------------
+Case 98
+INPUT: print Hello 22 from Essam
+Expected:
+Hello 22 from Essam
+Generated:
+Hello 22 from Essam
+
+*PASSED*
+----------------------------------------
+Case 99
+INPUT: Write Hello 22 from Essam
+Expected:
+Undefined Command
+Generated:
+Undefined Command
+
+*PASSED*
+----------------------------------------
+
+
+Passed: 85
+Failed: 14
